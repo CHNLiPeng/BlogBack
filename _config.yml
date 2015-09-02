@@ -74,5 +74,6 @@ deploy:
 
 backup:
     type: git
+    theme: hexo-theme-yilia
     repository:
-       github: https://git.oschina.net/CHNLiPeng/BlogBackup,master
+       github: https://github.com/CHNLiPeng/BlogBack,master
