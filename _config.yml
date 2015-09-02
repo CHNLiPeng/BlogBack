@@ -75,4 +75,4 @@ deploy:
 backup:
     type: git
     repository:
-       github: https://github.com/CHNLiPeng/BlogBack,master
+       github: https://git.oschina.net/CHNLiPeng/BlogBackup,master
